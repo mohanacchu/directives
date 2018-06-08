@@ -1,1 +1,1 @@
-All directives examples are add
+All directives examples custom directives will be added
